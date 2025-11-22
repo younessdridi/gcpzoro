@@ -43,7 +43,7 @@ This project allows you to deploy a **VLESS proxy** server over **WebSocket** us
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/t.me/nkka404"
+          "path": "/tg-@ZORO40_DZ"
         }
       }
     }
@@ -113,7 +113,7 @@ Use the following settings in your client app:
 | UUID       | `ba0e3984-ccc9-48a3-8074-b2f507f41ce8` |
 | Encryption | none                                   |
 | Transport  | WebSocket (WS)                         |
-| WS Path    | `/tg-@nkka404`                         |
+| WS Path    | `/tg-@ZORO40_DZ`                         |
 | TLS        | Yes (via Google CDN)                   |
 
 ---
@@ -144,7 +144,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-Made with ❤️ by [404\2.0](https://t.me/nkka404)
+Made with ❤️ by [404\2.0](https://t.me/zoro_40_khanchlyyy)
 
 ---
 
